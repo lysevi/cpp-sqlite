@@ -1,0 +1,3 @@
+[submodule "libsqlite3"]
+	path = libsqlite3
+	url = https://github.com/LuaDist/libsqlite3
